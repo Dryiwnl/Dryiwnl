@@ -11,7 +11,12 @@
 <br>
 
 ### 🛠️ Main Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,arduino,linux,github,vscode,figma,firebase,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,arduino,linux,git,vscode,firebase,nodejs,figma)](https://skillicons.dev)
+
+<br>
+
+### 📓 Workspace & Productivity
+[![Workspace](https://skillicons.dev/icons?i=obsidian,notion)](https://skillicons.dev)
 
 <br>
 
