@@ -15,11 +15,6 @@
 
 <br>
 
-### 📓 Workspace & Productivity
-[![Workspace](https://skillicons.dev/icons?i=obsidian,notion)](https://skillicons.dev)
-
-<br>
-
 ### 🔌 Hardware & Embedded
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-005194?style=for-the-badge&logo=proteus&logoColor=white)
@@ -27,10 +22,11 @@
 ![VHDL](https://img.shields.io/badge/VHDL-gray?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-orange?style=for-the-badge)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23f5822a.svg?style=for-the-badge&logo=platformio&logoColor=white)
+
 <br>
 
-### 📚 Studying
-[![Studying](https://skillicons.dev/icons?i=aws,azure,ruby,ros)](https://skillicons.dev)
+### 📓 Workspace & Productivity
+[![Workspace](https://skillicons.dev/icons?i=obsidian,notion)](https://skillicons.dev)
 
 <br>
 
@@ -45,6 +41,6 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daria-stanilevici/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
 
 </div>
