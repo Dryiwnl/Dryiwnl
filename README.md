@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://carbon.now.sh/static/brand/carbon-logo.png" width="400" alt="Terminal Skills">
+<img src="[https://carbon.now.sh/static/brand/carbon-logo.png](https://github.com/Dryiwnl/Dryiwnl/blob/main/carbon%20(1).png?raw=true)" width="400" alt="Terminal Skills">
 
 <br>
 
