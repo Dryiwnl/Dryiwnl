@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Matheus👋
 
 ### 🎓 Computer Engineering Student at UFSC
 Focused on Embedded Systems, Hardware Design, and IoT. Currently developing projects with ESP32 and learning ROS for robotics applications.
