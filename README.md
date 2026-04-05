@@ -1,17 +1,17 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Dryiwnl 👋
 ### 🎓 Computer Engineering Student @ UFSC
 **Embedded Systems | Hardware Design | IoT | C++**
 
 <br>
 
-<img src="[https://carbon.now.sh/static/brand/carbon-logo.png](https://github.com/Dryiwnl/Dryiwnl/blob/main/carbon%20(1).png?raw=true)" width="400" alt="Terminal Skills">
+<img src="https://github.com/Dryiwnl/Dryiwnl/blob/main/carbon%20(1).png?raw=true" width="600" alt="VHDL Skills">
 
 <br>
 
 ### 🛠️ Main Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,js,py,arduino,linux,mysql,html,css,github,phtotoshop,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,js,py,arduino,linux,mysql,html,css,github,ps,figma)](https://skillicons.dev)
 
 <br>
 
@@ -31,6 +31,6 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daria-stanilevici/)
 
 </div>
