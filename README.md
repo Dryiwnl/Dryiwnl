@@ -11,7 +11,7 @@
 <br>
 
 ### 🛠️ Main Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,arduino,linux,git,vscode,firebase,nodejs,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,arduino,linux,git,vscode,firebase,figma)](https://skillicons.dev)
 
 <br>
 
@@ -22,6 +22,7 @@
 
 ### 🔌 Hardware & Embedded
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-005194?style=for-the-badge&logo=proteus&logoColor=white)
 ![PIC](https://img.shields.io/badge/PIC_Microcontroller-007ACC?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-gray?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-orange?style=for-the-badge)
