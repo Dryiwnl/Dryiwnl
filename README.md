@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dryiwnl 👋
+# Hi, I'm Matheus 👋
 ### 🎓 Computer Engineering Student @ UFSC
 **Embedded Systems | Hardware Design | IoT | C++**
 
